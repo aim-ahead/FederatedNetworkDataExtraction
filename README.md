@@ -1,8 +1,6 @@
 # FederatedNetworkDataExtraction
 
-AIM-AHEAD Federated Network (AAFN)
-
-SQL code to generate LocalPatientData.csv and SharedAggregateData.csv files
+This repository contains SQL code to generate the LocalPatientData.csv and SharedAggregateData.csv files for the AIM-AHEAD Federated Network (AAFN).
 
 View the presentation AimAheadFederatedNetworkOverview.pptx for a description of the files.
 
