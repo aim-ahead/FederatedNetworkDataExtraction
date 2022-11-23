@@ -14,8 +14,7 @@ Run the scripts in this order:
 5) AAFN_SamplePatients.sql
 6) AAFN_GetPatientData.sql
 
-Save the table AimAhead_LocalPatientData to a CSV file named LocalPatientData.csv.
-*** NEVER SHARE THIS FILE ***
 
-Save the table AimAhead_SharedAggregateData to a CSV file named SharedAggregateData.csv.
-*** Send this file to the AIM-AHEAD Infrastructure Core ***
+Save the table AimAhead_LocalPatientData to a CSV file named LocalPatientData.csv. NEVER SHARE THIS FILE!
+
+Save the table AimAhead_SharedAggregateData to a CSV file named SharedAggregateData.csv. Send this file to the AIM-AHEAD Infrastructure Core.
